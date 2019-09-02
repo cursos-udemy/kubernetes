@@ -1,0 +1,5 @@
+*/target/*
+*/target/**
+/target/
+14-ConfigMaps/aplicacion/target/
+11-Aplicacion/aplicacion/target/
